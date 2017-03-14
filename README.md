@@ -1,6 +1,6 @@
 `README.md`
 
-#About this project
+# About this project
 
 This repository contains a tidy data set derived from raw data. 
 
@@ -12,19 +12,19 @@ Every feature value in the tidy data set is the calculated mean of the original 
 
 ---
 
-#Tidy data set
+# Tidy data set
 
 `tidy_set.csv` is the tidy data set produced by the script `run_analysis.R`
 
 ---
 
-#CodeBook
+# CodeBook
 
 `CodeBook.md` describes the tidy data set, with descriptions of the variables, data, and transformations which were done to clean up the data and create the tidy data set.
 
 ---
 
-#Script
+# Script
 
 `run_analysis.R` performs the analysis and generates the tidy data set. No other scripts are required.
 
@@ -34,7 +34,7 @@ The script assumes that the raw data files have been downloaded and unzipped to 
 
 ---
 
-#Analysis method
+# Analysis method
 
 These are the steps used to produce the tidy data set, as coded in the `run_analysis.R` script.
 
@@ -57,7 +57,7 @@ These are the steps used to produce the tidy data set, as coded in the `run_anal
 
 ---
 
-#Acknowledgements
+# Acknowledgements
 
 Garrett Grolemund and Hadley Wickham for their book _R for Data Science_ at http://r4ds.had.co.nz/
 
