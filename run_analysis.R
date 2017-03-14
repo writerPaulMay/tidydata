@@ -96,6 +96,6 @@ df2 <- arrange(test_train_narrowed_merged_tidied, activity, subject)
 
 tidy_set <- df2 %>% group_by(activity, subject) %>% summarise_each(funs(mean))
 
-write.csv(tidy_set, paste0(project_path,"/tidy_set.csv"), row.names=FALSE)
+write.table(tidy_set, paste0(project_path,"/tidy_set.txt"), row.names=FALSE)
 
 ##########

@@ -4,7 +4,7 @@
 
 # About the tidy data set
 
-The tidy data set produced for this project is `tidy_set.csv`.
+The tidy data set produced for this project is `tidy_set.txt`.
 
 The tidy data set is a new data frame which combines original data from the provided `test` and `train` files.
 

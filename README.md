@@ -14,7 +14,7 @@ Every feature value in the tidy data set is the calculated mean of the original 
 
 # Tidy data set
 
-`tidy_set.csv` is the tidy data set produced by the script `run_analysis.R`
+`tidy_set.txt` is the tidy data set produced by the script `run_analysis.R`
 
 ---
 
